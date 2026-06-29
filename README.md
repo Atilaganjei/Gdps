@@ -1,1 +1,32 @@
-# Gdps
+# Gdps 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AstroDash GDPS</title>
+    <style>
+        body {
+            background: #111;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+        }
+        h1 {
+            color: #00ccff;
+        }
+        .button {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #00ccff;
+            color: black;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚀 AstroDash GDPS</h1>
+    <p>Welcome to AstroDash GDPS!</p>
+    <a class="button" href="#">Download</a>
+</body>
+</html>
